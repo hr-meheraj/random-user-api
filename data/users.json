@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "gender" : "male",
+        "name" : "Hr Meheraj",
+        "contact" : "+88183498294",
+        "address" : "Noakhali, Bangladesh",
+        "photoUrl" : ""
+    },
+    {
+        "id" : 2,
+        "gender" : "female",
+        "name" : "Khadizatul Kobra",
+        "contact" : "+1 89190220",
+        "address" : "New Zersy, USA",
+        "photoUrl" : ""
+    },
+    {
+        "id" : 3,
+        "gender" : "Male",
+        "name" : "Jhankar ",
+        "contact" : "+1 834948",
+        "address" : "San Fransisco, USA",
+        "photoUrl" : ""
+    },
+    {
+        "id" : 4,
+        "gender" : "female",
+        "name" : "Samiya",
+        "contact" : "+198298 8292",
+        "address" : "Nigeria, USA",
+        "photoUrl" : ""
+    }
+]
